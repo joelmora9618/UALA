@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorOrange">#FF6B0F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+    <item name="grey_light" type="color">#DBDBDB</item>
+    <color name="separator_list_view">@color/grey_light</color>
 </resources>

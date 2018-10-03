@@ -1,0 +1,153 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="standard_vertical_margin">22dp</dimen>
+    <dimen name="standard_margin">18dp</dimen>
+    <dimen name="standard_left_margin">18dp</dimen>
+    <dimen name="standard_right_margin">18dp</dimen>
+    <dimen name="standard_bottom_margin">18dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
+         https://developer.android.com/design/patterns/navigation-drawer.html -->
+    <dimen name="navigation_drawer_width">280dp</dimen>
+
+    <dimen name="big_title_general_margin_height">40dp</dimen>
+    <dimen name="big_title_general_margin_width">20dp</dimen>
+
+    <dimen name="big_title_general_margin">20dp</dimen>
+
+    <dimen name="credit_card_help_legend_margin">30dp</dimen>
+
+
+    <dimen name="rounded_button_size">55dp</dimen>
+
+    <dimen name="button_height">50dp</dimen>
+    <dimen name="general_margin">16dp</dimen>
+
+    <dimen name="margin_title_tipo_de_tasa">18dp</dimen>
+    <dimen name="check_button_dimen">30dp</dimen>
+
+
+    <dimen name="logo_margin">10dp</dimen>
+
+    <dimen name="titular1_big_text_size">28sp</dimen>
+    <dimen name="titular1_big_text_ayuda_size">20sp</dimen>
+    <dimen name="titular1_medium_size">22sp</dimen>
+    <dimen name="titular1_text_size">26sp</dimen>
+    <dimen name="titulo2_text_size">16sp</dimen>
+    <dimen name="titulo2_small_text_size">12sp</dimen>
+    <dimen name="bloque_texto_text_size">14sp</dimen>
+    <dimen name="detalle_text_size">11sp</dimen>
+    <dimen name="map_height">150dp</dimen>
+
+    <dimen name="bloque_texto_popup_map">14dp</dimen>
+
+    <dimen name="login_edittext_size">40dp</dimen>
+
+    <dimen name="padding_data_row">5dp</dimen>
+    <dimen name="padding_item_data">8dp</dimen>
+    <dimen name="padding_label_data">15dp</dimen>
+    <dimen name="size_text_label">16sp</dimen>
+
+    <!-- Tamaño del texto del título principal de cada fragmento -->
+    <dimen name="text_size_title_main">16dp</dimen>
+
+    <!-- Padding del título principal de cada fragmento -->
+    <dimen name="padding_text_title_main">15dp</dimen>
+
+    <!-- Padding para todos los body de los fragmentos -->
+    <dimen name="padding_body_content">10dp</dimen>
+
+    <!-- Padding para los botones rojos -->
+    <dimen name="padding_body_button">10dp</dimen>
+
+    <!-- Padding para cada fila de la table de infinite scroll -->
+    <dimen name="padding_row_infinitescroll">10dp</dimen>
+
+    <!-- Alto de la linea separadora que se usa en las vistas -->
+    <dimen name="height_line_separator">1dp</dimen>
+    <dimen name="height_line_separator_strong">1dp</dimen>
+
+    <!-- Margen para separar el alto y bottom en el fragmento -->
+    <dimen name="margin_separator_top_bottom">5dp</dimen>
+
+    <!-- Tamaño máximo y mínimo para la fuente del amount -->
+    <dimen name="text_size_amount_max">33dp</dimen>
+    <dimen name="text_size_amount_min">24dp</dimen>
+
+    <!-- Tamaño del texto para las row de listado -->
+    <dimen name="text_size_row_max">13dp</dimen>
+    <dimen name="text_size_row_min">8dp</dimen>
+
+    <dimen name="text_size_familia_objeto">13sp</dimen>
+
+    <!-- Concepto Detalle del movimiento -->
+    <dimen name="text_size_details_concept">18dp</dimen>
+
+    <!-- Tamaño texto customer dpinner-->
+    <dimen name="text_size_customer_size">16dp</dimen>
+
+    <!-- Texto por defecto -->
+    <dimen name="text_size_default">18dp</dimen>
+
+    <!-- PAdding para los inputs con estilos de caja -->
+    <dimen name="padding_inputs_up_down">5dp</dimen>
+    <dimen name="padding_inputs_left_right">10dp</dimen>
+    <dimen name="padding_bar">10dp</dimen>
+    <dimen name="map_detail">150dp</dimen>
+
+    <!-- Tamaño texto botones rojos -->
+    <dimen name="text_size_buttons">18dp</dimen>
+    <dimen name="image_popup_width">60dp</dimen>
+
+    <dimen name="margin_right_icon_map">5dp</dimen>
+    <dimen name="placeholder_box_searh">16dp</dimen>
+    <dimen name="height_slide_menu">320dp</dimen>
+
+    <dimen name="padding_txt_title">20dp</dimen>
+
+    <!-- Layout MostrarInformación -->
+    <dimen name="actividadGenerica_titulo_tamano">20dp</dimen>
+    <dimen name="actividadGenerica_titulo_margenIzq">18dp</dimen>
+    <dimen name="actividadGenerica_titulo_margenSup">18dp</dimen>
+    <dimen name="actividadGenerica_titulo_margenDer">18dp</dimen>
+    <dimen name="actividadGenerica_titulo_margenInf">12dp</dimen>
+
+    <dimen name="actividadGenerica_texto_tamano">15dp</dimen>
+    <dimen name="actividadGenerica_texto_margenIzq">18dp</dimen>
+    <dimen name="actividadGenerica_texto_margenSup">18dp</dimen>
+    <dimen name="actividadGenerica_texto_margenDer">18dp</dimen>
+    <dimen name="actividadGenerica_texto_margenInf">18dp</dimen>
+    <dimen name="ComodinesListForCategoryComodinesSuperClub_width">54dp</dimen>
+    <dimen name="ComodinesListForCategoryComodinesSuperClub_height">50dp</dimen>
+    <dimen name="ComodinesListForCategoryComodinesSuperClub_marginLeft">18dp</dimen>
+    <dimen name="ComodinesListForCategoryComodinesSuperClub_marginTop">15dp</dimen>
+    <dimen name="ComodinesListForCategoryComodinesSuperClub_marginRight">18dp</dimen>
+    <dimen name="ComodinesListForCategoryComodinesSuperClub_marginBottom">15dp</dimen>
+    <dimen name="ComodinesListForSubcategoryComodinesSuperClub_width">100dp</dimen>
+    <dimen name="ComodinesListForSubcategoryComodinesSuperClub_height">62dp</dimen>
+    <dimen name="ComodinesListForSubcategoryComodinesSuperClub_marginLeft">18dp</dimen>
+    <dimen name="ComodinesListForSubcategoryComodinesSuperClub_marginTop">10dp</dimen>
+    <dimen name="ComodinesListForSubcategoryComodinesSuperClub_marginRight">18dp</dimen>
+    <dimen name="ComodinesListForSubcategoryComodinesSuperClub_marginBottom">10dp</dimen>
+
+    <dimen name="HeaderGroupComodinesListForCategoryComodinesSuperClub_marginLeft">18dp</dimen>
+    <dimen name="HeaderGroupComodinesListForCategoryComodinesSuperClub_marginTop">22dp</dimen>
+    <dimen name="HeaderGroupComodinesListForCategoryComodinesSuperClub_marginRight">18dp</dimen>
+    <dimen name="HeaderGroupComodinesListForCategoryComodinesSuperClub_marginBottom">18dp</dimen>
+
+    <dimen name="HeaderGroupComodinesListForSubcategoryComodinesSuperClub_marginLeft">18dp</dimen>
+    <dimen name="HeaderGroupComodinesListForSubcategoryComodinesSuperClub_marginTop">15dp</dimen>
+    <dimen name="HeaderGroupComodinesListForSubcategoryComodinesSuperClub_marginRight">18dp</dimen>
+    <dimen name="HeaderGroupComodinesListForSubcategoryComodinesSuperClub_marginBottom">15dp</dimen>
+
+    <dimen name="list_title_fondos_text_size">13sp</dimen>
+
+    <dimen name="home_principal_button">11sp</dimen>
+
+    <dimen name="home_button_padding">12dp</dimen>
+
+
+</resources>

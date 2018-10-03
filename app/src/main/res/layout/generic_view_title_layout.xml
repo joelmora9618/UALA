@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/title_header"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/functionality_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/general_margin"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="22dp"
+        tools:text="Titulo Funcionalidad" />
+
+    <View
+        android:id="@+id/seprarador_titulo"
+        style="@style/SeparatorSectionTitle"
+        android:layout_below="@+id/functionality_title" />
+
+</RelativeLayout>
